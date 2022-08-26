@@ -13,7 +13,7 @@ Took around 6-7 Hours to make it.
 ___
 Click here to go the home page which is deployed via Netlify.
 
-[Click me]()
+[Click me](https://verdant-crisp-1e8f07.netlify.app)
 
 ### Screenshots
 ___
